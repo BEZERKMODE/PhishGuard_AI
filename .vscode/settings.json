@@ -1,7 +1,0 @@
-{
-    "python.analysis.typeEvaluation.strictListInference": true,
-    "python.analysis.generateWithTypeAnnotation": true,
-    "python.analysis.typeEvaluation.enableExperimentalFeatures": true,
-    "python.analysis.typeEvaluation.strictDictionaryInference": true,
-    "python.analysis.typeCheckingMode": "strict"
-}
