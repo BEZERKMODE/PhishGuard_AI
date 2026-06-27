@@ -3,3 +3,10 @@ __pycache__/
 *.pyc
 .env
 *.pkl
+.vscode/
+*.pyc
+__pycache__/
+.env
+models/*.pkl
+models/*.joblib
+data/raw/*.csv
